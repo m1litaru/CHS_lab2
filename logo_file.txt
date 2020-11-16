@@ -7,6 +7,7 @@
 \subsection{Realtime Database}
 
 New line added
+Second change
 
 \noindent
 {\color{red} \rule{\linewidth}{0.5mm} }

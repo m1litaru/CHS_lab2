@@ -5,3 +5,12 @@
 \section{Baza de date}
 \subsection{Firebase Cloud Storage}
 \subsection{Realtime Database}
+
+
+
+\noindent
+{\color{red} \rule{\linewidth}{0.5mm} }
+
+\section{Baza de date}
+\subsection{Firebase Cloud Storage}
+\subsection{Realtime Database}

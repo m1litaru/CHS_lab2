@@ -6,11 +6,16 @@
 \subsection{Firebase Cloud Storage}
 \subsection{Realtime Database}
 
-
+Second change
 
 \noindent
 {\color{red} \rule{\linewidth}{0.5mm} }
 
-\section{Baza de date}
-\subsection{Firebase Cloud Storage}
+\section{Baza de date}Second change
+\subsection{Firebase Cloud Storage}Second change
 \subsection{Realtime Database}
+
+Second change
+
+
+Second change
